@@ -1,0 +1,22 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+          "game": 1, 
+          "organizer": 1, 
+          "date": "2020-01-01",
+          "time": "12:00"
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "game": 2, 
+            "organizer": 1, 
+            "date": "2020-01-02",
+            "time": "12:00"
+        }
+    }
+]

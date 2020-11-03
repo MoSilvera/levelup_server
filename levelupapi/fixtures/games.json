@@ -1,0 +1,27 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Welcome to",
+            "maker": "hasbro",
+            "gamer":1,
+            "number_of_players": 1,
+            "skill_level": 1,
+            "gametype": 2
+
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Jenga",
+            "maker": "hasbro",
+            "gamer":1,
+            "number_of_players": 1,
+            "skill_level": 1,
+            "gametype": 1
+        }
+    }
+]
